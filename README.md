@@ -1,0 +1,1 @@
+This project represents my ability to clone the structure and styles of the google search homepage using html and css.
